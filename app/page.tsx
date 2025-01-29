@@ -32,7 +32,8 @@ export default function Home() {
             <div className="h-px flex-auto bg-neutral-200" />
           </div>
           <h1 className="mt-8 text-2xl font-medium tracking-tight text-neutral-950 sm:text-3xl">
-            Writing on security, performance, and building modern applications.
+            Writing on backend development, performance, and building modern
+            applications.
           </h1>
         </header>
 
